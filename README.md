@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Anthony Kim 👋
 
-<!--
-**OzG71LXXeKVjzhP8LLWaYM4bo/OzG71LXXeKVjzhP8LLWaYM4bo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves building apps and exploring new tech. Currently working with **Next.js** and **Rust (Axum)** for full-stack development, while diving into the world of **Machine Learning**.
 
-Here are some ideas to get you started:
+Always learning, always building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzG71LXXeKVjzhP8LLWaYM4bo&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzG71LXXeKVjzhP8LLWaYM4bo&layout=compact&theme=tokyonight)
