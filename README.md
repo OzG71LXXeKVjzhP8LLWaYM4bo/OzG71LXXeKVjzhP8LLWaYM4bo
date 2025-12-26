@@ -12,5 +12,3 @@ Always learning, always building.
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight&no-frame=true&row=1)
