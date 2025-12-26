@@ -8,8 +8,9 @@ Always learning, always building.
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzG71LXXeKVjzhP8LLWaYM4bo&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzG71LXXeKVjzhP8LLWaYM4bo&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=OzG71LXXeKVjzhP8LLWaYM4bo&theme=tokyonight&no-frame=true&row=1)
